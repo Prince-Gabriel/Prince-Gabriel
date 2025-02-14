@@ -8,8 +8,8 @@ Second grade student at SMKN 24 Jakarta. I am deeply passionate about Web develo
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Prince-Gabriel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ztacole&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztacole&layout=donut&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prince-Gabriel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Gabriel&layout=donut&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
