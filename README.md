@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi! 👋 I'm Satria.
 
-<!--
-**Prince-Gabriel/Prince-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second grade student at SMKN 24 Jakarta. I am deeply passionate about Web develop,ent, particularly using PHP with laravel. I also have strong skills in Web development using PHP.  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning react native
+- 💬 Feel free to ask me about Web development using PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Prince-Gabriel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ztacole&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztacole&layout=donut&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/satriajatidwiyansyah">LinkedIn</a>
+- jati0506201@gmail.com
+- <a href="https://www.instagram.com/satriaa.jt">Instagram</a>
